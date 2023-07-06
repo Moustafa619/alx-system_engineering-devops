@@ -1,2 +1,6 @@
 #!/bin/bash
+<<<<<<< HEAD
 ls -la . .. /boot
+=======
+ls -la /boot ~/alx-system_engineering-devops ~/alx-system_engineering-devops/0x00-shell_basics
+>>>>>>> task number 12
